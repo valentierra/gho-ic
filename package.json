@@ -16,7 +16,7 @@
     "ghost": "^3.11.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.0",
-    "knex": "^0.15.0",
+    "knex": "^0.19.5",
     "liebling": "github:eddiesigner/liebling",
     "london": "github:tryghost/london#1.0.0",
     "lyra": "github:tryghost/lyra",
