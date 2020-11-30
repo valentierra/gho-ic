@@ -16,7 +16,6 @@
     "ghost": "^3.11.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.0",
-    "knex": "^0.15.0",
     "liebling": "github:eddiesigner/liebling",
     "london": "github:tryghost/london#1.0.0",
     "lyra": "github:tryghost/lyra",
@@ -34,5 +33,8 @@
   "scripts": {
     "start": "node server.js",
     "postinstall": "bash bin/copy-themes.sh"
+  },
+  "devDependencies": {
+    "knex": "^0.14.6"
   }
 }
